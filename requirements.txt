@@ -1,0 +1,15 @@
+# Math Calculator Pro - Requirements
+# Run: pip install -r requirements.txt
+
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+pywin32>=305
+bettercam>=1.0.0
+
+# AI Detection (YOLO) - Optional but recommended
+ultralytics>=8.0.0
+
+# PyTorch with CUDA support (for GPU acceleration)
+# Install separately with:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124

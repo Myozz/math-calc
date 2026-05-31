@@ -1,0 +1,12 @@
+# Dataset configuration for Valorant enemy detection
+path: C:/Users/Administrator/Downloads/math_calc
+train: images
+val: images
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  0: head
+  1: body

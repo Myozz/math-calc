@@ -1,0 +1,42 @@
+{
+    "fov": 4.0,
+    "keybind": 16,
+    "shooting_rate": 90.0,
+    "fps": 120.0,
+    "hsv_range": [
+        [
+            140,
+            30,
+            160
+        ],
+        [
+            150,
+            230,
+            255
+        ]
+    ],
+    "presets": {
+        "f1": {
+            "rate": 10,
+            "wasd_delay": 10,
+            "precision": 4
+        },
+        "f2": {
+            "rate": 120,
+            "wasd_delay": 100,
+            "precision": 4
+        },
+        "f3": {
+            "rate": 400,
+            "wasd_delay": 120,
+            "precision": 4
+        }
+    },
+    "toggle_keybind": 5,
+    "detection_mode": 0,
+    "ai_confidence": 0.01,
+    "ai_use_gpu": true,
+    "aim_mode": true,
+    "aim_speed": 2,
+    "last_preset": "A"
+}
